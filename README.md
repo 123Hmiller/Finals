@@ -1,2 +1,2 @@
-# Finals
+# Final
 Created with CodeSandbox
